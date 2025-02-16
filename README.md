@@ -1,7 +1,7 @@
 # Save_Student_App
 this app writen by python using tkinter framework and sqlite.
 
-scrit_1 is to add rundom students to the database so you can test the application
+script_1 is to add rundom students to the database so you can test the application
 # App Images
 
 ![Image](https://github.com/user-attachments/assets/77eec27e-7911-4c3d-aedc-c13ee10f19dc)
